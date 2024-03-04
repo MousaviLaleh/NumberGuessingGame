@@ -6,7 +6,6 @@ This script *`get input from user`*, *`save data into database`* and *`process t
 Check the code here ... &nbsp; [number_guess.sh](number_guess.sh) <br/>
 
 :copyright: [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/) Relational Database Course  <br/>
-Check the code here ... &nbsp; [number_guess.sh](number_guess.sh)
 
 ## Instructions
 To complete this project, you need to write a script that generates a random number between 1 and 1000 for users to guess. 
