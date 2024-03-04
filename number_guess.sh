@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# PSQL="psql -X -h localhost -p 54321 -U postgres --dbname=number_guess -t --no-align -c"
 PSQL="psql --username=freecodecamp --dbname=number_guess -t --no-align -c"
 
 echo -e "\n~~ Guess the Number ~~\n"
@@ -29,7 +28,6 @@ fi
 
 # generate random number
 SECRET_NUMBER=$(( RANDOM % 1000 + 1 ))
-echo $SECRET_NUMBER
 
 # guess counter
 NUMBER_OF_GUESSES=0
