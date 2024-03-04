@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-## Project Goal
+### Project Goal
 Build a Number Guessing Game using Bash, PostgreSQL and Git. <br/>
 :copyright: [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/) Relational Database Course  <br/>
 Check the code here ... &nbsp; [number_guess.sh](number_guess.sh)
