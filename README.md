@@ -1,6 +1,11 @@
 # Number Guessing Game
 
-Instructions
+## Project Goal
+Build a Number Guessing Game using Bash, PostgreSQL and Git. <br/>
+:copyright: [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/) Relational Database Course  <br/>
+Check the code here... &nbsp; [number_guess.sh](number_guess.sh)
+
+## Instructions
 To complete this project, you need to write a script that generates a random number between 1 and 1000 for users to guess. 
 - Create a number_guess database to hold the information suggested in the user stories.
 - Connect to the interactive psql shell with `psql --username=<database_username> --dbname=postgres` to create the database.
