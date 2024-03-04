@@ -35,7 +35,8 @@ The file will be located where the command was entered. If it's anything inside 
   `Welcome back, <username>! You have played <games_played> games, and your best game took <best_game> guesses.`, <br/>
   with `<username>` being a users name from the database, `<games_played>` being the total number of games that user has played, and `<best_game>` being the fewest number of guesses it took that user to win the game
 
-- If the username has not been used before, you should print `Welcome, <username>! It looks like this is your first time here`.
+- If the username has not been used before, you should print <br/>
+  `Welcome, <username>! It looks like this is your first time here`.
 
 - The next line printed should be `Guess the secret number between 1 and 1000:` and input from the user should be read
 
