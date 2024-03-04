@@ -2,7 +2,7 @@
 
 ### Project Goal
 Build a Number Guessing Game using PostgreSQL, Bash and Git. <br/>
-This script `get input from user`, `save data into database` and `process the user activity based on the user's profile`. <br/>
+This script *`get input from user`*, *`save data into database`* and *`process the user activity based on the user's profile`*. <br/>
 Check the code here ... &nbsp; [number_guess.sh](number_guess.sh) <br/>
 
 :copyright: [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/) Relational Database Course  <br/>
