@@ -29,6 +29,7 @@ The file will be located where the command was entered. If it's anything inside 
     mkdir number_guessing_game
     cd number_guessing_game
     git init
+    git checkout -b main
     touch README.md 
     git add .
     git commit -m "Initial commit"
