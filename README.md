@@ -13,7 +13,8 @@ Check the code here ... &nbsp; [number_guess.sh](number_guess.sh) <br/>
 :copyright: [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/) Relational Database Course  <br/>
 
 ## Instructions
-To complete this project, you need to write a script that generates a random number between 1 and 1000 for users to guess. 
+To complete this project, 
+- you need to write a script that generates a random number between 1 and 1000 for users to guess. 
 - Create a number_guess database to hold the information suggested in the user stories.
 - Connect to the interactive psql shell with `psql --username=<database_username> --dbname=postgres` to create the database.
 - In your script, you can create a `PSQL` variable for querying the database like this: <br/> `PSQL="psql --username=<database_username> --dbname=<database_name> -t --no-align -c"`.
