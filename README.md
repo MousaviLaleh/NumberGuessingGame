@@ -72,6 +72,6 @@ The file will be located where the command was entered. If it's anything inside 
 
 - The rest of the commit messages should start with `fix:`, `feat:`, `refactor:`, `chore:`, or `test:`
 
-- You should finish your project while on the main branch, your working tree should be clean, and you should not have any uncommitted changes
+- You should finish your project while on the `main` branch, your working tree should be clean, and you should not have any uncommitted changes
 
   <br/>
