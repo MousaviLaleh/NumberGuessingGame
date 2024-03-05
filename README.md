@@ -26,7 +26,7 @@ The file will be located where the command was entered. If it's anything inside 
 
 - Create a `number_guessing_game` folder in the project folder for your program
   ~~~
-      mkdir number_guessing_game
+    mkdir number_guessing_game
     cd number_guessing_game
     git init
     touch README.md 
@@ -38,6 +38,8 @@ The file will be located where the command was entered. If it's anything inside 
   ~~~
     touch number_guess.sh
     chmod +x number_guess.sh
+    git add .
+    git commit -m "feat: Create script file"
   ~~~
 
 - Your script should have a shebang at the top of the file that uses #!/bin/bash
